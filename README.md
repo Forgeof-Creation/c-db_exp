@@ -1,4 +1,4 @@
-#C-db#
+# C-db #
 
 This is a simple beginner friendly key-value pair database written in ansi C.
 Note: There is no secure entry and the database uses text based files with extension .cdb
